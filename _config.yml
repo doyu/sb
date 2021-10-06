@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: My ML journey
-description: My journey on experiencing Machine Learning world.
+title: Blog
+description: Just want to record what's been done.
 github_username: doyu
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "sb"
